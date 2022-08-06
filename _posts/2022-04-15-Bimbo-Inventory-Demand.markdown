@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bimbo Inventory Demand
+title: Bimbo Inventory Demand - Detecção de clicks fraudulentos
 date: 2022-07-05 00:00:00 +1000
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: bimbo2.jpg # Add image post (optional)
